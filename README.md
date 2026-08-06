@@ -68,9 +68,9 @@ Have these ready — it makes the whole process about twenty minutes instead of 
 | **Your team's story** | 3–4 paragraphs: who you are, what you build, what you do for your community |
 | **Photos or a video** | A team photo and a robot clip. Sponsors read these first |
 
-> **One thing to decide up front:** your Portfolio has a public team page. Ask yourself whether
-> you want it discoverable before you fill it in — and see [Student privacy](#student-privacy) below
-> for what not to put in it.
+> **Your Portfolio is private.** It is never published to the open web and has no public URL.
+> The only people who ever see it are you, the admins who review your pitches, and the specific
+> sponsors you choose to pitch. See [Student privacy](#student-privacy) below.
 
 ### 1. Create your account and get verified
 
@@ -197,9 +197,13 @@ This matters more than any feature, so it's worth being precise.
 photo, email, or contact details, and no student can hold an account. Only verified adults register.
 This is enforced in the database itself, not just in a policy document.
 
-**What you should know as a coach:** your Portfolio's free-text fields — team story, outreach summary,
-subteam breakdown — and any photos you upload are yours to write, and parts of your team page can be
-publicly visible. So:
+**Portfolios are private.** There is no public team page and no anonymous URL for your portfolio.
+It's visible to you, to the admins reviewing your pitches, and to the sponsors you choose to pitch —
+nobody else.
+
+**What you should still know as a coach:** the free-text fields — team story, outreach summary,
+subteam breakdown — and any photos you upload go out to sponsors in your pitch emails. Once an email
+lands in someone's inbox you can't unsend it. So:
 
 - ✅ *"Our outreach team ran a robotics camp for 40 elementary students."*
 - ❌ *"Our programming lead Maria Chen rebuilt the autonomous routine."*
