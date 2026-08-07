@@ -212,11 +212,14 @@ impact and engineering, and neither of those requires a single student's name.
 
 ## About
 
-FTC Matchmaker was designed and built by **Anish Yarrakonda**, from an original idea by
-**Rishi Jhaveri** (outreach lead) and **Shreyas Vempati** (team captain).
+We're three members of *FIRST* Tech Challenge **Team Exodius #31579**, and we built FTC Matchmaker
+because we needed it ourselves.
 
-We compete as *FIRST* Tech Challenge **Team Exodius #31579**, and we built this because we needed it
-ourselves. FTC Matchmaker is an independent project and is not affiliated with or endorsed by *FIRST*.
+The idea came from **Rishi Jhaveri** (outreach lead) and **Shreyas Vempati** (team captain). The
+platform itself was designed, engineered, and built end to end by **Anish Yarrakonda** — the
+architecture, the database and its security model, the interface, and every line of code.
+
+FTC Matchmaker is an independent project and is not affiliated with or endorsed by *FIRST*.
 
 **This repository holds the public documentation only.** The application source is kept private —
 not because we're against sharing (FTC runs on shared work), but because this is a live system
