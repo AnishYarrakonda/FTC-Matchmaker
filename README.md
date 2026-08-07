@@ -5,7 +5,7 @@
 ### The moderated sponsorship pipeline for *FIRST* Tech Challenge teams.
 
 Build one team portfolio. Send tailored pitches to real sponsors.
-Every outbound email is read by a human before it leaves the platform.
+Every outbound email is read by a person before it leaves the platform.
 
 **[→ Open the portal](https://ftc-sponsorship-portal.vercel.app)** &nbsp;·&nbsp;
 [How it works](https://ftc-sponsorship-portal.vercel.app/#how) &nbsp;·&nbsp;
@@ -15,16 +15,6 @@ Every outbound email is read by a human before it leaves the platform.
 <img src="assets/hero.png" alt="FTC Matchmaker — Land your next sponsorship and fuel your FTC journey" width="100%">
 
 </div>
-
----
-
-> ### Early access
->
-> FTC Matchmaker is in active development ahead of the 2026 season. The full coach flow works
-> end to end, but you may hit rough edges. If something breaks or confuses you, email us — reports
-> from real coaches are by far the fastest way we find problems.
->
-> **Onboarding is currently by request.** Reach out before you invest time building a portfolio.
 
 ---
 
@@ -40,10 +30,15 @@ FTC Matchmaker replaces that with a pipeline:
   You write it once.
 - **Pitches fork from it.** Each submission adds only what's specific to that sponsor — the ask,
   the local connection, what you need from *them*. Your team story is never rewritten.
-- **Nothing sends itself.** Every pitch enters a review queue and is read by a human admin before
-  a single email reaches a sponsor.
+- **Nothing sends itself.** Every pitch enters a review queue and is read by a person before a
+  single email reaches a sponsor.
 - **Students stay out of it.** Only verified adult coaches can hold an account. No student names,
   photos, or contact details are ever collected by the platform.
+
+> **This is a moderated platform, not a signup funnel.** Any coach or company can apply, and every
+> account is reviewed by a person before it's activated. That's deliberate — it's what lets us promise
+> a sponsor that nothing in their inbox arrived unvetted, and it's why teams here aren't competing
+> with a flood of automated outreach.
 
 <div align="center">
 <img src="assets/how-it-works.png" alt="Four steps: apply and verify, build your base, fork per sponsor, dispatch reviewed" width="100%">
@@ -62,7 +57,7 @@ Have these ready — it makes the whole process about twenty minutes instead of 
 
 | You'll need | Why |
 | --- | --- |
-| **Your FTC team number** | Verified against the official team roster during signup |
+| **Your FTC team number** | Checked against the official *FIRST* team roster during signup |
 | **Government photo ID** | Confirms you're an adult coach. Stored privately, visible only to admins, never public |
 | **Your season budget** | Line items with real costs — "Robot build: $2,800", "Regional travel: $3,200" |
 | **Your team's story** | 3–4 paragraphs: who you are, what you build, what you do for your community |
@@ -75,11 +70,12 @@ Have these ready — it makes the whole process about twenty minutes instead of 
 ### 1. Create your account and get verified
 
 Go to **[Get started](https://ftc-sponsorship-portal.vercel.app/signup)** and work through the signup
-wizard. You'll confirm you're 18+, accept the terms, and upload your photo ID.
+wizard. You'll confirm you're 18+, accept the terms, enter your team number, and upload your photo ID.
 
-An admin reviews the ID by hand. Until that's approved you'll sit on a waiting screen — this is
-normal and it's the step that keeps the platform adults-only. **You cannot send pitches until you're
-verified.** You can start building your Portfolio while you wait.
+An admin reviews the ID by hand — this is the step that keeps the platform adults-only, and it's the
+reason a sponsor can trust that a real coach is on the other end. You'll get an email as soon as
+you're approved. **You can start building your Portfolio while you wait**; you just can't send a pitch
+until verification clears.
 
 ### 2. Build your Portfolio
 
@@ -133,13 +129,13 @@ funding, it's recorded against their capacity so the same money can't be promise
 <details>
 <summary><strong>Does it cost anything?</strong></summary>
 <br>
-No. Free for FTC teams.
+No — FTC Matchmaker is free for FTC teams.
 </details>
 
 <details>
 <summary><strong>How long does review take?</strong></summary>
 <br>
-Usually same-day during the season. You'll get an email either way — you never have to sit and refresh.
+Within 48 hours. You'll get an email either way — you never have to sit and refresh.
 </details>
 
 <details>
@@ -159,7 +155,7 @@ at approval time, so a sponsor is never surprised by a number changing after the
 <details>
 <summary><strong>What happens to our data if we leave?</strong></summary>
 <br>
-You can export your data or delete your account from Settings at any time.
+You can export your data or delete your account from Settings.
 </details>
 
 <details>
@@ -174,8 +170,8 @@ beats a trophy list. Put the effort into the outreach and budget sections.
 # For sponsors
 
 **You'll hear from a team before you ever need an account.** Coaches pitch you through a moderated
-queue, and every pitch is read by a human admin before it reaches your inbox — so you don't get
-forty cold emails from forty teams.
+queue, and every pitch is read by a person before it reaches your inbox — so you don't get forty cold
+emails from forty teams.
 
 If you'd like to support *FIRST* Tech Challenge teams:
 
@@ -216,8 +212,11 @@ impact and engineering, and neither of those requires a single student's name.
 
 ## About
 
-FTC Matchmaker is built and maintained by three *FIRST* Tech Challenge alumni as an independent side
-project. It isn't affiliated with or endorsed by *FIRST*.
+FTC Matchmaker was designed and built by **Anish Yarrakonda**, from an original idea by
+**Rishi Jhaveri** (outreach lead) and **Shreyas Vempati** (team captain).
+
+We compete as *FIRST* Tech Challenge **Team Exodius #31579**, and we built this because we needed it
+ourselves. FTC Matchmaker is an independent project and is not affiliated with or endorsed by *FIRST*.
 
 **This repository holds the public documentation only.** The application source is kept private —
 not because we're against sharing (FTC runs on shared work), but because this is a live system
@@ -232,5 +231,5 @@ architecture with any team that's curious — just email us.
 
 <div align="center">
 <br>
-<sub>Built for Season 2026 · <em>FIRST</em> Tech Challenge</sub>
+<sub>Built for Season 2026 · <em>FIRST</em> Tech Challenge Team Exodius #31579</sub>
 </div>
